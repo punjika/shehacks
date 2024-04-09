@@ -16,8 +16,38 @@ const quizData = [
   },
   {
       question: "Question 4: Local Leader Lady! ‍♀The 73rd and 74th amendments are like magic spells, reserving seats in local bodies for women. This is awesome because:",
-      options:[" More women = More Girl Power in government!","Double the trouble for bad guys (of course not, but more women making decisions!)","Free makeovers for all female leaders! (Wishful thinking!)","More tea parties in council meetings (not quite!)"],
+      options:["More women = More Girl Power in government!","Double the trouble for bad guys (of course not, but more women making decisions!)","Free makeovers for all female leaders! (Wishful thinking!)","More tea parties in council meetings (not quite!)"],
       answer:"More women = More Girl Power in government!"
+  },
+  {
+    question: "Question 5: Feeling Unsafe at Home? There's Help!The Protection of Women from Domestic Violence Act is your shield against abuse. What number can you call for immediate support?",
+    options: ["The National Gossip Hotline (we wish this existed!)","The National Women Helpline - 181","Your BFF's phone number (great to have support, but call the helpline too!)","Ghostbusters! (While they're great, they might not be the answer here!)"],
+    answer: "The National Women Helpline - 181"
+  },
+  {
+    question: "Question 6:The National Commission for Women (NCW) works towards:",
+    options: ["Women's empowerment and addressing grievances","Women's education and health","Women's entrepreneurship development","All of the above"],
+    answer: "Women's empowerment and addressing grievances"
+  },
+  {
+    question: "Question 7:Women who cannot afford a lawyer can get legal aid through::",
+    options: [" Right to Education Act, 2009","The Right to Information Act, 2005","The National Food Security Act, 2013","The Legal Services Authorities Act, 1987"],
+    answer: "The Legal Services Authorities Act, 1987"
+  },
+  {
+    question: "Question 8:Do women have equal rights in inheritance and property ownership?",
+    options: ["yes","No"],
+    answer: "yes"
+  },
+  {
+    question: "Question 9:Which amendments promote women's participation in local governance?",
+    options: ["42nd and 44th","5th and 6th","73rd and 74th","86th and 89th"],
+    answer: "73rd and 74th"
+  },
+  {
+    question: "Question 10:The legal age for marriage for women in India is:",
+    options: ["16","17","12","18"],
+    answer: "18"
   }
   // Add more questions here...
 ];
